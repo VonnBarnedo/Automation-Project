@@ -1,0 +1,20 @@
+[
+  {
+    "hostname": "R1-Central-HQ",
+    "ip": "192.168.10.1",
+    "status": "UP",
+    "checked_at": "2026-10-03T11:01:55"
+  },
+  {
+    "hostname": "SW1-Ehrenfest",
+    "ip": "192.168.10.2",
+    "status": "UP",
+    "checked_at": "2026-10-03T11:01:55"
+  },
+  {
+    "hostname": "SW2-Dunkelfelger",
+    "ip": "192.168.10.3",
+    "status": "DOWN",
+    "checked_at": "2026-10-03T11:01:55"
+  }
+]

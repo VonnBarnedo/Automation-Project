@@ -1,0 +1,23 @@
+[
+  {
+    "hostname": "R1-Central-HQ",
+    "ip": "192.168.10.1",
+    "device_type": "Router",
+    "location": "Central Office",
+    "simulated_status": "UP"
+  },
+  {
+    "hostname": "SW1-Ehrenfest",
+    "ip": "192.168.10.2",
+    "device_type": "Switch",
+    "location": "East Compound",
+    "simulated_status": "UP"
+  },
+  {
+    "hostname": "SW2-Dunkelfelger",
+    "ip": "192.168.10.3",
+    "device_type": "Switch",
+    "location": "South Bulding",
+    "simulated_status": "DOWN"
+  }
+]
